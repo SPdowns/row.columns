@@ -1,0 +1,19 @@
+.my-class {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
+img {
+  width: 300px;
+  object-fit: cover;
+}
+.column {
+  width: 300px;
+  float: left;
+}
+.sidebar {
+  float: right;
+  width: 20%;
+  background-color: orange;
+}
